@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-10-17 14:00+0200\n"
+"PO-Revision-Date: 2013-10-17 14:00+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Alabama"
+msgstr "阿拉巴马"
+
+msgid "Alaska"
+msgstr "阿拉斯加"
+
+msgid "Arizona"
+msgstr "亚利桑那"
+
+msgid "Arkansas"
+msgstr "阿肯色"
+
+msgid "California"
+msgstr "加利福尼亚"
+
+msgid "Colorado"
+msgstr "科罗拉多"
+
+msgid "Connecticut"
+msgstr "康涅狄格"
+
+msgid "Delaware"
+msgstr "特拉华"
+
+msgid "Florida"
+msgstr "佛罗里达"
+
+msgid "Georgia"
+msgstr "乔治亚"
+
+msgid "Hawaii"
+msgstr "夏威夷"
+
+msgid "Idaho"
+msgstr "爱达荷"
+
+msgid "Illinois"
+msgstr "伊利诺伊"
+
+msgid "Indiana"
+msgstr "印第安纳"
+
+msgid "Iowa"
+msgstr "爱荷华"
+
+msgid "Kansas"
+msgstr "堪萨斯"
+
+msgid "Kentucky"
+msgstr "肯塔基"
+
+msgid "Louisiana"
+msgstr "路易斯安那"
+
+msgid "Maine"
+msgstr "缅因"
+
+msgid "Maryland"
+msgstr "马里兰"
+
+msgid "Massachusetts"
+msgstr "马萨诸塞"
+
+msgid "Michigan"
+msgstr "密歇根"
+
+msgid "Minnesota"
+msgstr "明尼苏达"
+
+msgid "Mississippi"
+msgstr "密西西比"
+
+msgid "Missouri"
+msgstr "密苏里"
+
+msgid "Montana"
+msgstr "蒙大拿"
+
+msgid "Nebraska"
+msgstr "内布拉斯加"
+
+msgid "Nevada"
+msgstr "内华达"
+
+msgid "New Hampshire"
+msgstr "新罕布什尔"
+
+msgid "New Jersey"
+msgstr "新泽西"
+
+msgid "New Mexico"
+msgstr "新墨西哥"
+
+msgid "New York"
+msgstr "纽约"
+
+msgid "North Carolina"
+msgstr "北卡罗莱纳"
+
+msgid "North Dakota"
+msgstr "北达科他"
+
+msgid "Ohio"
+msgstr "俄亥俄"
+
+msgid "Oklahoma"
+msgstr "俄克拉何马"
+
+msgid "Oregon"
+msgstr "俄勒冈"
+
+msgid "Pennsylvania"
+msgstr "宾夕法尼亚"
+
+msgid "Rhode Island"
+msgstr "罗得岛"
+
+msgid "South Carolina"
+msgstr "南卡罗来纳"
+
+msgid "South Dakota"
+msgstr "南达科他"
+
+msgid "Tennessee"
+msgstr "田纳西"
+
+msgid "Texas"
+msgstr "得克萨斯"
+
+msgid "Utah"
+msgstr "犹他"
+
+msgid "Vermont"
+msgstr "佛蒙特"
+
+msgid "Virginia"
+msgstr "弗吉尼亚"
+
+msgid "Washington"
+msgstr "华盛顿州"
+
+msgid "West Virginia"
+msgstr "西弗吉尼亚"
+
+msgid "Wisconsin"
+msgstr "威斯康星"
+
+msgid "Wyoming"
+msgstr "怀俄明"
+

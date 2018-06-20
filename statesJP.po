@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-10-17 14:00+0200\n"
+"PO-Revision-Date: 2013-10-17 14:00+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Alabama"
+msgstr "アラバマ"
+
+msgid "Alaska"
+msgstr " アラスカ"
+
+msgid "Arizona"
+msgstr "アリゾナ"
+
+msgid "Arkansas"
+msgstr "アーカンソー"
+
+msgid "California"
+msgstr "カリフォルニア"
+
+msgid "Colorado"
+msgstr "コロラド"
+
+msgid "Connecticut"
+msgstr "コネチカット"
+
+msgid "Delaware"
+msgstr "デラウェア"
+
+msgid "Florida"
+msgstr "フロリダ"
+
+msgid "Georgia"
+msgstr "ジョージア"
+
+msgid "Hawaii"
+msgstr "ハワイ"
+
+msgid "Idaho"
+msgstr "アイダホ"
+
+msgid "Illinois"
+msgstr "イリノイ"
+
+msgid "Indiana"
+msgstr " インディアナ"
+
+msgid "Iowa"
+msgstr "アイオワ"
+
+msgid "Kansas"
+msgstr "カンザス"
+
+msgid "Kentucky"
+msgstr "ケンタッキー"
+
+msgid "Louisiana"
+msgstr "ルイジアナ"
+
+msgid "Maine"
+msgstr "メーン"
+
+msgid "Maryland"
+msgstr "メリーランド"
+
+msgid "Massachusetts"
+msgstr "マサチューセッツ"
+
+msgid "Michigan"
+msgstr "ミシガン"
+
+msgid "Minnesota"
+msgstr " ミネソタ"
+
+msgid "Mississippi"
+msgstr "ミシシッピ"
+
+msgid "Missouri"
+msgstr "ミズーリ"
+
+msgid "Montana"
+msgstr "モンタナ"
+
+msgid "Nebraska"
+msgstr "ネブラスカ"
+
+msgid "Nevada"
+msgstr "ネバダ"
+
+msgid "New Hampshire"
+msgstr "ニューハンプシャー"
+
+msgid "New Jersey"
+msgstr "ニュージャージー"
+
+msgid "New Mexico"
+msgstr "ニューメキシコ"
+
+msgid "New York"
+msgstr "ニューヨーク"
+
+msgid "North Carolina"
+msgstr "ノースカロライナ"
+
+msgid "North Dakota"
+msgstr " ノースダコタ"
+
+msgid "Ohio"
+msgstr "オハイオ"
+
+msgid "Oklahoma"
+msgstr "オクラホマ"
+
+msgid "Oregon"
+msgstr "オレゴン"
+
+msgid "Pennsylvania"
+msgstr "ペンシルベニア"
+
+msgid "Rhode Island"
+msgstr "ロードアイランド"
+
+msgid "South Carolina"
+msgstr "サウスカロライナ"
+
+msgid "South Dakota"
+msgstr "サウスダコタ"
+
+msgid "Tennessee"
+msgstr "テネシー"
+
+msgid "Texas"
+msgstr "テキサス"
+
+msgid "Utah"
+msgstr "ユタ"
+
+msgid "Vermont"
+msgstr "バーモント"
+
+msgid "Virginia"
+msgstr "バージニア"
+
+msgid "Washington"
+msgstr "ワシントン"
+
+msgid "West Virginia"
+msgstr "ウェストバージニア"
+
+msgid "Wisconsin"
+msgstr "ウィスコンシン"
+
+msgid "Wyoming"
+msgstr "ワイオミング"
+

@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-10-17 14:00+0200\n"
+"PO-Revision-Date: 2013-10-17 14:00+0200\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Alabama"
+msgstr "Alabama"
+
+msgid "Alaska"
+msgstr "Alaska"
+
+msgid "Arizona"
+msgstr "Arizona"
+
+msgid "Arkansas"
+msgstr "Arkansas"
+
+msgid "California"
+msgstr "Californie"
+
+msgid "Colorado"
+msgstr "Colorado"
+
+msgid "Connecticut"
+msgstr "Connecticut"
+
+msgid "Delaware"
+msgstr "Delaware"
+
+msgid "Florida"
+msgstr "Floride"
+
+msgid "Georgia"
+msgstr "Georgie"
+
+msgid "Hawaii"
+msgstr "Hawaï"
+
+msgid "Idaho"
+msgstr "Idaho"
+
+msgid "Illinois"
+msgstr "Illinois"
+
+msgid "Indiana"
+msgstr "Indiana"
+
+msgid "Iowa"
+msgstr "Iowa"
+
+msgid "Kansas"
+msgstr "Kansas"
+
+msgid "Kentucky"
+msgstr "Kentucky"
+
+msgid "Louisiana"
+msgstr "Louisiane"
+
+msgid "Maine"
+msgstr "Maine"
+
+msgid "Maryland"
+msgstr "Maryland"
+
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+msgid "Michigan"
+msgstr "Michigan"
+
+msgid "Minnesota"
+msgstr "Minnesota"
+
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgid "Missouri"
+msgstr "Missouri"
+
+msgid "Montana"
+msgstr "Montana"
+
+msgid "Nebraska"
+msgstr "Nebraska"
+
+msgid "Nevada"
+msgstr "Nevada"
+
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+msgid "New Jersey"
+msgstr "New Jersey"
+
+msgid "New Mexico"
+msgstr "Nouveau-Mexique"
+
+msgid "New York"
+msgstr "New York"
+
+msgid "North Carolina"
+msgstr "Caroline du Nord"
+
+msgid "North Dakota"
+msgstr "Dakota du Nord"
+
+msgid "Ohio"
+msgstr "Ohio"
+
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+msgid "Oregon"
+msgstr "Oregon"
+
+msgid "Pennsylvania"
+msgstr "Pennsylvanie"
+
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+msgid "South Carolina"
+msgstr "Caroline du sud"
+
+msgid "South Dakota"
+msgstr "Dakota du Sud"
+
+msgid "Tennessee"
+msgstr "Tennessee"
+
+msgid "Texas"
+msgstr "Texas"
+
+msgid "Utah"
+msgstr "Utah"
+
+msgid "Vermont"
+msgstr "Vermont"
+
+msgid "Virginia"
+msgstr "Virginie"
+
+msgid "Washington"
+msgstr "Washington"
+
+msgid "West Virginia"
+msgstr "Virginie Occidentale"
+
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgid "Wyoming"
+msgstr "Wyoming"
+
